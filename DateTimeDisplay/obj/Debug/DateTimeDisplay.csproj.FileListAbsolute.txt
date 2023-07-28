@@ -4,10 +4,3 @@ C:\Users\Ali Azami\Desktop\New folder (15)\DateTimeDisplay\DateTimeDisplay\DateT
 C:\Users\Ali Azami\Desktop\New folder (15)\DateTimeDisplay\DateTimeDisplay\DateTimeDisplay\obj\Debug\DateTimeDisplay.csprojResolveAssemblyReference.cache
 C:\Users\Ali Azami\Desktop\New folder (15)\DateTimeDisplay\DateTimeDisplay\DateTimeDisplay\obj\Debug\DateTimeDisplay.exe
 C:\Users\Ali Azami\Desktop\New folder (15)\DateTimeDisplay\DateTimeDisplay\DateTimeDisplay\obj\Debug\DateTimeDisplay.pdb
-C:\Users\Ali Azami\Source\Repos\aazamigh\myreppp2\DateTimeDisplay\bin\Debug\DateTimeDisplay.exe.config
-C:\Users\Ali Azami\Source\Repos\aazamigh\myreppp2\DateTimeDisplay\bin\Debug\DateTimeDisplay.exe
-C:\Users\Ali Azami\Source\Repos\aazamigh\myreppp2\DateTimeDisplay\bin\Debug\DateTimeDisplay.pdb
-C:\Users\Ali Azami\Source\Repos\aazamigh\myreppp2\DateTimeDisplay\obj\Debug\DateTimeDisplay.csprojAssemblyReference.cache
-C:\Users\Ali Azami\Source\Repos\aazamigh\myreppp2\DateTimeDisplay\obj\Debug\DateTimeDisplay.csproj.CoreCompileInputs.cache
-C:\Users\Ali Azami\Source\Repos\aazamigh\myreppp2\DateTimeDisplay\obj\Debug\DateTimeDisplay.exe
-C:\Users\Ali Azami\Source\Repos\aazamigh\myreppp2\DateTimeDisplay\obj\Debug\DateTimeDisplay.pdb

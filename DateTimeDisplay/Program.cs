@@ -13,7 +13,6 @@ namespace DateTimeDisplay
             DateTime dt=DateTime.Now;
             Console.WriteLine(dt.FormatToString(1));
             Console.WriteLine(dt.FormatToString(7));
-            // this not my rep 2
         }
     }
 }
