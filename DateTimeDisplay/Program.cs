@@ -12,7 +12,7 @@ namespace DateTimeDisplay
         {
             DateTime dt=DateTime.Now;
             Console.WriteLine(dt.FormatToString(1));
-            Console.WriteLine(dt.FormatToString(7));
+            Console.WriteLine(dt.FormatToString(7)); 
             // no rep 003
         }
     }
