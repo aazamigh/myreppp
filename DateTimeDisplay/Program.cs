@@ -14,6 +14,7 @@ namespace DateTimeDisplay
             Console.WriteLine(dt.FormatToString(1));
             Console.WriteLine(dt.FormatToString(7)); 
             // no rep 003
+            // no rep 0034
         }
     }
 }
